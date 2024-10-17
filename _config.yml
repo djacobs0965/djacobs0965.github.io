@@ -21,7 +21,7 @@ repository               : "djacobs0965/djacobs0965.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.jpg"
   name             : "Dale Jacobs"
   pronouns         : "he/him"
   bio              : "Email:\nfirstname.lastname(at)tufts.edu"

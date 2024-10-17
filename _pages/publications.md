@@ -5,12 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- Jacobs Dale, Saeed Mehraban, "The Space Just Above One Clean Qubit", \[[arXiv](https://arxiv.org/abs/2410.08051)\]
