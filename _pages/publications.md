@@ -5,4 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Jacobs Dale, Saeed Mehraban, "The Space Just Above One Clean Qubit", \[[arXiv](https://arxiv.org/abs/2410.08051)\]
+- D. Jacobs, S. Mehraban, "The Space Just Above One Clean Qubit", in submission, [arXiv](https://arxiv.org/abs/2410.08051)
